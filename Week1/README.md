@@ -2,7 +2,7 @@
 
 Week 1 introduces a simple end-to-end LLM workflow:
 
-1. Fetch a public website.
+1. Fetch a public website.(try different methods)
 2. Remove non-content HTML such as scripts, styles, images, and inputs.
 3. Extract readable text.
 4. Send the extracted content to an LLM.
